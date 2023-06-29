@@ -79,7 +79,6 @@
 <img src="Images/login.png" width="450"> &nbsp;
 <img src="Images/home.png" width="450"> &nbsp;
 <img src="Images/post.png" width="450"> &nbsp;
-<img src="Images/login.png" width="450"> &nbsp;
 <img src="Images/create-post.png" width="450"> &nbsp;
 <img src="Images/comments.png" width="450"> &nbsp;
 <img src="Images/about.png" width="450"> &nbsp;
