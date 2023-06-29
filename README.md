@@ -31,22 +31,22 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Interactive Blog Application</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Create your space here!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/AnuragKomrewar/BlogApp"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/AnuragKomrewar/BlogApp">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/AnuragKomrewar/BlogApp">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/AnuragKomrewar/BlogApp">Request Feature</a>
   </p>
 </div>
 
@@ -76,7 +76,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Screenshot](images/screenshot.png)](https://example.com)
+<img src="Images/login.png" width="450"> &nbsp;
+<img src="Images/home.png" width="450"> &nbsp;
+<img src="Images/post.png" width="450"> &nbsp;
+<img src="Images/login.png" width="450"> &nbsp;
+<img src="Images/create-post.png" width="450"> &nbsp;
+<img src="Images/comments.png" width="450"> &nbsp;
+<img src="Images/about.png" width="450"> &nbsp;
+<img src="Images/contact.png" width="450"> &nbsp;
 
 This is a blog application built using React.js, Node.js, Express, and MongoDB. It allows users to register and log in, create and modify blogs, and interact with other users through comments. The application also includes a category section where users can filter blogs based on specific categories.
 
