@@ -116,7 +116,7 @@ This is a blog application built using React.js, Node.js, Express, and MongoDB. 
    git clone https://github.com/AnuragKomrewar/BlogApp.git
 2. Navigate to the project directory:
    ```sh
-   cd blog-application
+   cd BlogApp
 ## Install client dependencies
 cd client
 npm install
